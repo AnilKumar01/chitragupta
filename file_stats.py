@@ -22,3 +22,4 @@ if __name__ == '__main__':
         exit()
     print "Last File Mod Time: %s" %str(last_mod_date_time(argv[1], "%m/%d/%Y"))
     print "File Mod in Bytes: %s" %str(file_mod_in_bytes(argv[1]))
+ddk
